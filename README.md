@@ -1,2 +1,4 @@
 # Enyac-and-Discounts-Question
 Case Study: Eniac’s Discount Strategy, E-commerce tech company. Debate: whether it’s beneficial to discount products. Marketing Team Lead for discounts Investors worried about offering aggressive discounts: company's quarterly results showed decrease in the total revenue, refer that company positions itself in quality segment...
+
+https://colab.research.google.com/drive/1jdU9MuTvjOviakgU2tORr9rhqtmWhwI5#scrollTo=D0TSKB9CuIoN
